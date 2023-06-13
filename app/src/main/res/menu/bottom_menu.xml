@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/i_Chat"
+        android:title="Чаты"
+        android:icon="@drawable/baseline_chat_bubble_24"/>
+    <item
+        android:id="@+id/i_Friends"
+        android:title="Друзья"
+        android:icon="@drawable/baseline_people_24"/>
+    <item android:id="@+id/i_Profile"
+        android:title="Профиль"
+        android:icon="@drawable/baseline_draw_24"/>
+</menu>
